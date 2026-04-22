@@ -13,8 +13,8 @@
   ],
   "name":"Room1",
   "parent":{
-    "name":"Arena dos Reis",
-    "path":"Arena dos Reis.yyp",
+    "name":"Rooms",
+    "path":"folders/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
