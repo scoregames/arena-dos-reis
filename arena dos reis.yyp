@@ -23,7 +23,7 @@
   "name":"new_blank",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"spr_teste","path":"sprites/spr_teste/spr_teste.yy",},},
+    {"id":{"name":"spr_celula_base","path":"sprites/spr_celula_base/spr_celula_base.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
