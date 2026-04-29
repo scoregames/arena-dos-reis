@@ -8,8 +8,8 @@
   "name":"obj_celula_block",
   "overriddenProperties":[],
   "parent":{
-    "name":"objects",
-    "path":"folders/objects.yy",
+    "name":"Celula",
+    "path":"folders/objects/Celula.yy",
   },
   "parentObjectId":null,
   "persistent":false,

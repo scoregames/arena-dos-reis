@@ -1,1 +1,1 @@
-image_blend = #14BC68
+if image_blend == #17EA81 image_blend = #14BC68

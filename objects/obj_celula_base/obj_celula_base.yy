@@ -6,8 +6,8 @@
   "name":"obj_celula_base",
   "overriddenProperties":[],
   "parent":{
-    "name":"objects",
-    "path":"folders/objects.yy",
+    "name":"Celula",
+    "path":"folders/objects/Celula.yy",
   },
   "parentObjectId":null,
   "persistent":false,

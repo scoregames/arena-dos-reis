@@ -39,6 +39,7 @@
     {"name":"inst_5236BDDB","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_54C36AF7","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_A97173D","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_3777B068","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -75,6 +76,7 @@
         {"$GMRInstance":"v4","%Name":"inst_5236BDDB","colour":4285053972,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5236BDDB","objectId":{"name":"obj_celula_neutro","path":"objects/obj_celula_neutro/obj_celula_neutro.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1088.0,"y":160.0,},
         {"$GMRInstance":"v4","%Name":"inst_54C36AF7","colour":4285053972,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_54C36AF7","objectId":{"name":"obj_celula_neutro","path":"objects/obj_celula_neutro/obj_celula_neutro.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":512.0,"y":608.0,},
         {"$GMRInstance":"v4","%Name":"inst_A97173D","colour":4285053972,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_A97173D","objectId":{"name":"obj_celula_neutro","path":"objects/obj_celula_neutro/obj_celula_neutro.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":416.0,"y":576.0,},
+        {"$GMRInstance":"v4","%Name":"inst_3777B068","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3777B068","objectId":{"name":"obj_jogador","path":"objects/obj_jogador/obj_jogador.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":32.0,"y":32.0,},
       ],"layers":[],"name":"neutro","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_8468841","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_8468841","objectId":{"name":"obj_celula_base","path":"objects/obj_celula_base/obj_celula_base.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":896.0,"y":736.0,},
