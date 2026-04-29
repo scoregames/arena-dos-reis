@@ -1,0 +1,1 @@
+image_blend = #BA2909

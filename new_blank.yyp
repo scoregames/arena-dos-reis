@@ -24,6 +24,9 @@
   "name":"new_blank",
   "resources":[
     {"id":{"name":"obj_celula_base","path":"objects/obj_celula_base/obj_celula_base.yy",},},
+    {"id":{"name":"obj_celula_player_blue","path":"objects/obj_celula_player_blue/obj_celula_player_blue.yy",},},
+    {"id":{"name":"obj_celula_player_red","path":"objects/obj_celula_player_red/obj_celula_player_red.yy",},},
+    {"id":{"name":"obj_celula_player_yellow","path":"objects/obj_celula_player_yellow/obj_celula_player_yellow.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_celula_base","path":"sprites/spr_celula_base/spr_celula_base.yy",},},
   ],
