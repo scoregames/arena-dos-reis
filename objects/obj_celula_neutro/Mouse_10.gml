@@ -1,0 +1,1 @@
+image_blend = #14BC25
