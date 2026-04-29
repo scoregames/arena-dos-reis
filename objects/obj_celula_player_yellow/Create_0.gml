@@ -1,1 +1,0 @@
-image_blend = #DCE00B
