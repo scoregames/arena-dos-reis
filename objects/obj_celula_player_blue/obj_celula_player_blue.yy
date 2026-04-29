@@ -8,8 +8,8 @@
   "name":"obj_celula_player_blue",
   "overriddenProperties":[],
   "parent":{
-    "name":"objects",
-    "path":"folders/objects.yy",
+    "name":"Cores",
+    "path":"folders/objects/Cores.yy",
   },
   "parentObjectId":null,
   "persistent":false,

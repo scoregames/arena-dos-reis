@@ -1,0 +1,1 @@
+image_blend = #A35E1D

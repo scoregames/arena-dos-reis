@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_celula_player_red",
+  "%Name":"obj_celula_neutro",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_celula_player_red",
+  "name":"obj_celula_neutro",
   "overriddenProperties":[],
   "parent":{
-    "name":"Cores",
-    "path":"folders/objects/Cores.yy",
+    "name":"objects",
+    "path":"folders/objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
