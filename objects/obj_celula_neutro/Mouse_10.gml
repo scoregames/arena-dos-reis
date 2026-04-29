@@ -1,1 +1,1 @@
-image_blend = #14BC25
+image_blend = #17EA81
