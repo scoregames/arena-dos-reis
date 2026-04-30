@@ -25,6 +25,7 @@
   },
   "name":"new_blank",
   "resources":[
+    {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
     {"id":{"name":"obj_celula_base","path":"objects/obj_celula_base/obj_celula_base.yy",},},
     {"id":{"name":"obj_celula_block","path":"objects/obj_celula_block/obj_celula_block.yy",},},
     {"id":{"name":"obj_celula_neutro","path":"objects/obj_celula_neutro/obj_celula_neutro.yy",},},
