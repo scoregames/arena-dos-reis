@@ -12,7 +12,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Celula",
-    "path":"folders/objects/Celula.yy",
+    "path":"folders/Objects/Celula.yy",
   },
   "parentObjectId":null,
   "persistent":false,
