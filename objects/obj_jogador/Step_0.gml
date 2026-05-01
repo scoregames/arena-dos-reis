@@ -1,0 +1,13 @@
+//obj jogador seguindo a seta do mouse
+//x = lerp(x, mouse_x, 0.1)
+//y = lerp(y, mouse_y, 0.1)
+
+//Pegando os valores da camera
+var _larg_camera = camera_get_view_width(view_camera[0])
+var _alt_camera = camera_get_view_height(view_camera[0])
+
+var _cam_x = x - _larg_camera / 2
+var _cam_y = y - _alt_camera / 2
+
+//Alterando a posicao da camera
+camera_set_view_pos(view_camera[0], _cam_x , _cam_y)
