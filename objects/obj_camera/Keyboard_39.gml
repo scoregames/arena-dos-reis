@@ -1,2 +1,2 @@
-if x < room_width - 5
+if x < room_width - (1280 / 2)
 x += velocidade

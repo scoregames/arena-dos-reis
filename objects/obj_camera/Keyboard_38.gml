@@ -1,2 +1,2 @@
-if y > 5
+if y > (720 / 2) + 5
 y -= velocidade
